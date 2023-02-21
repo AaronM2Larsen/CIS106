@@ -20,3 +20,4 @@ course: CIS 106 Linux Fundamentals
 
 ## Question 4
 ![Ubuntu.X.org](Ubuntu%20on%20Xorg%20Screenshot.PNG)
+![Snapshot.1.Lab.1.Photo](Snapshot%201%20Lab%201.PNG)
