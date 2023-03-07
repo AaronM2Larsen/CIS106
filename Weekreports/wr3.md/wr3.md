@@ -20,7 +20,7 @@ course: CIS106
 1c) Linux distribution are operating systems that uses Linux as its main source of programming
 
 **What is Ubuntu?**
-1d) 
+1d) Ubuntu is a Linux Operating System.
 
 **Define the following terms: Open Source, Closed Source, free software**
 
@@ -57,8 +57,8 @@ VirtualBox is a powerful x86 and **AMD64/Intel64** virtualization product for en
 C1) Desktop environment is an implementation of the desktop metaphor made of a bunch of programs running on top of a computer operating system, which shares a common GUI sometimes described as a graphical shell
 
 1) GNOME
-2) The Kool Desktop Environment
-3) XFCE Desktop environment
+2) The Cool Desktop Environment
+3) X F C E Desktop environment
 
 **List 4 common elements of desktop environments**
 1) Icons
@@ -102,10 +102,10 @@ sudo apt remove "application"
 
 **Which command is used for searching for software. Provide an example.**
 apt search "Description"
-apt search "Game the plays Tetris"
+apt search "Game the play chicken run"
 
 **Definition of the following terms:**
 
 **Package** - archives that contain binaries of software, configuration files, and information about dependencies. 
 **Library** - reusable code  that can be used by more than one function or program
-**Repository** - a large collection of software available for download
+**Repository** - a large collection of software available for download 
