@@ -1,0 +1,116 @@
+
+Start-Date: 2023-04-03  08:56:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xserver-common:amd64 (2:21.1.3-2ubuntu2.7, 2:21.1.3-2ubuntu2.9), xserver-xephyr:amd64 (2:21.1.3-2ubuntu2.7, 2:21.1.3-2ubuntu2.9)
+End-Date: 2023-04-03  08:56:54
+
+Start-Date: 2023-04-03  08:56:56
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickcore-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:56:57
+
+Start-Date: 2023-04-03  08:56:59
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickcore-6.q16-6-extra:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:56:59
+
+Start-Date: 2023-04-03  08:57:01
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xserver-xorg-core:amd64 (2:21.1.3-2ubuntu2.7, 2:21.1.3-2ubuntu2.9)
+End-Date: 2023-04-03  08:57:02
+
+Start-Date: 2023-04-03  08:57:04
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick-6-common:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:57:04
+
+Start-Date: 2023-04-03  08:57:06
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickwand-6.q16-6:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:57:07
+
+Start-Date: 2023-04-03  08:57:09
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xwayland:amd64 (2:22.1.1-1ubuntu0.5, 2:22.1.1-1ubuntu0.6)
+End-Date: 2023-04-03  08:57:09
+
+Start-Date: 2023-04-03  08:57:12
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xserver-xorg-legacy:amd64 (2:21.1.3-2ubuntu2.7, 2:21.1.3-2ubuntu2.9)
+End-Date: 2023-04-03  08:57:12
+
+Start-Date: 2023-04-03  08:57:14
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:57:15
+
+Start-Date: 2023-04-03  08:57:17
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick-6.q16:amd64 (8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2, 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3)
+End-Date: 2023-04-03  08:57:17
+
+Start-Date: 2023-04-17  09:56:18
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: thunderbird:amd64 (1:102.9.0+build1-0ubuntu0.22.04.1, 1:102.10.0+build2-0ubuntu0.22.04.1), thunderbird-locale-en:amd64 (1:102.9.0+build1-0ubuntu0.22.04.1, 1:102.10.0+build2-0ubuntu0.22.04.1), thunderbird-gnome-support:amd64 (1:102.9.0+build1-0ubuntu0.22.04.1, 1:102.10.0+build2-0ubuntu0.22.04.1)
+End-Date: 2023-04-17  09:56:19
+
+Start-Date: 2023-04-17  09:56:22
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: vim:amd64 (2:8.2.3995-1ubuntu2.4, 2:8.2.3995-1ubuntu2.5), vim-common:amd64 (2:8.2.3995-1ubuntu2.4, 2:8.2.3995-1ubuntu2.5), vim-tiny:amd64 (2:8.2.3995-1ubuntu2.4, 2:8.2.3995-1ubuntu2.5), vim-runtime:amd64 (2:8.2.3995-1ubuntu2.4, 2:8.2.3995-1ubuntu2.5)
+End-Date: 2023-04-17  09:56:24
+
+Start-Date: 2023-04-17  09:56:27
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-samba:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), libldb2:amd64 (2:2.4.4-0ubuntu0.22.04.1, 2:2.4.4-0ubuntu0.22.04.2), samba-vfs-modules:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), samba:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), libwbclient0:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), libsmbclient:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), samba-dsdb-modules:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), samba-common-bin:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), python3-ldb:amd64 (2:2.4.4-0ubuntu0.22.04.1, 2:2.4.4-0ubuntu0.22.04.2), smbclient:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), samba-libs:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1), samba-common:amd64 (2:4.15.13+dfsg-0ubuntu1, 2:4.15.13+dfsg-0ubuntu1.1)
+End-Date: 2023-04-17  09:56:31
+
+Start-Date: 2023-04-17  09:56:34
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: liblouis-data:amd64 (3.20.0-2ubuntu0.1, 3.20.0-2ubuntu0.2)
+End-Date: 2023-04-17  09:56:34
+
+Start-Date: 2023-04-17  09:56:37
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: thunderbird-locale-en-us:amd64 (1:102.9.0+build1-0ubuntu0.22.04.1, 1:102.10.0+build2-0ubuntu0.22.04.1)
+End-Date: 2023-04-17  09:56:37
+
+Start-Date: 2023-04-17  09:56:40
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xxd:amd64 (2:8.2.3995-1ubuntu2.4, 2:8.2.3995-1ubuntu2.5)
+End-Date: 2023-04-17  09:56:40
+
+Start-Date: 2023-04-17  09:56:43
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: liblouis20:amd64 (3.20.0-2ubuntu0.1, 3.20.0-2ubuntu0.2), python3-louis:amd64 (3.20.0-2ubuntu0.1, 3.20.0-2ubuntu0.2)
+End-Date: 2023-04-17  09:56:44
+
+Start-Date: 2023-04-17  09:56:47
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-apport:amd64 (2.20.11-0ubuntu82.3, 2.20.11-0ubuntu82.4)
+End-Date: 2023-04-17  09:56:47
+
+Start-Date: 2023-04-17  09:56:50
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: ghostscript-x:amd64 (9.55.0~dfsg1-0ubuntu5.1, 9.55.0~dfsg1-0ubuntu5.2), libgs9-common:amd64 (9.55.0~dfsg1-0ubuntu5.1, 9.55.0~dfsg1-0ubuntu5.2), ghostscript:amd64 (9.55.0~dfsg1-0ubuntu5.1, 9.55.0~dfsg1-0ubuntu5.2), libgs9:amd64 (9.55.0~dfsg1-0ubuntu5.1, 9.55.0~dfsg1-0ubuntu5.2)
+End-Date: 2023-04-17  09:56:50
+
+Start-Date: 2023-04-17  09:56:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: sudo:amd64 (1.9.9-1ubuntu2.3, 1.9.9-1ubuntu2.4)
+End-Date: 2023-04-17  09:56:54
+
+Start-Date: 2023-04-17  09:56:56
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: tzdata:amd64 (2022g-0ubuntu0.22.04.1, 2023c-0ubuntu0.22.04.0)
+End-Date: 2023-04-17  09:56:57
+
+Start-Date: 2023-04-17  09:57:00
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-problem-report:amd64 (2.20.11-0ubuntu82.3, 2.20.11-0ubuntu82.4)
+End-Date: 2023-04-17  09:57:00
+
+Start-Date: 2023-04-17  12:05:09
+Commandline: aptdaemon role='role-commit-packages' sender=':1.128'
+Upgrade: librados2:amd64 (17.2.0-0ubuntu0.22.04.2, 17.2.5-0ubuntu0.22.04.2), libpulse0:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), udev:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), systemd-oomd:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libsnmp-base:amd64 (5.9.1+dfsg-1ubuntu2.5, 5.9.1+dfsg-1ubuntu2.6), python3-tz:amd64 (2022.1-1ubuntu0.22.04.0, 2022.1-1ubuntu0.22.04.1), bind9-host:amd64 (1:9.18.1-1ubuntu1.3, 1:9.18.12-0ubuntu0.22.04.1), libsnmp40:amd64 (5.9.1+dfsg-1ubuntu2.5, 5.9.1+dfsg-1ubuntu2.6), libfprint-2-2:amd64 (1:1.94.3+tod1-0ubuntu2~22.04.03, 1:1.94.3+tod1-0ubuntu2~22.04.04), systemd-timesyncd:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libldap-common:amd64 (2.5.13+dfsg-0ubuntu0.22.04.1, 2.5.14+dfsg-0ubuntu0.22.04.2), xserver-xorg-core:amd64 (2:21.1.3-2ubuntu2.9, 2:21.1.4-2ubuntu1.7~22.04.1), libpam-systemd:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libpulsedsp:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), pulseaudio:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), libgdm1:amd64 (42.0-1ubuntu7, 42.0-1ubuntu7.22.04.1), pulseaudio-utils:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), apparmor:amd64 (3.0.4-2ubuntu2.1, 3.0.4-2ubuntu2.2), alsa-ucm-conf:amd64 (1.2.6.3-1ubuntu1.4, 1.2.6.3-1ubuntu1.5), software-properties-common:amd64 (0.99.22.5, 0.99.22.6), libsystemd0:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libnss-systemd:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libapparmor1:amd64 (3.0.4-2ubuntu2.1, 3.0.4-2ubuntu2.2), libllvm15:amd64 (1:15.0.6-3~ubuntu0.22.04.2, 1:15.0.7-0ubuntu0.22.04.1), python3-software-properties:amd64 (0.99.22.5, 0.99.22.6), libldap-2.5-0:amd64 (2.5.13+dfsg-0ubuntu0.22.04.1, 2.5.14+dfsg-0ubuntu0.22.04.2), systemd:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), libudev1:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), gnome-settings-daemon-common:amd64 (42.1-1ubuntu2.1, 42.1-1ubuntu2.2), im-config:amd64 (0.50-2, 0.50-2ubuntu22.04.1), xserver-xorg-legacy:amd64 (2:21.1.3-2ubuntu2.9, 2:21.1.4-2ubuntu1.7~22.04.1), gdm3:amd64 (42.0-1ubuntu7, 42.0-1ubuntu7.22.04.1), libpulse-mainloop-glib0:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), dnsmasq-base:amd64 (2.86-1.1ubuntu0.1, 2.86-1.1ubuntu0.2), libcephfs2:amd64 (17.2.0-0ubuntu0.22.04.2, 17.2.5-0ubuntu0.22.04.2), gnome-settings-daemon:amd64 (42.1-1ubuntu2.1, 42.1-1ubuntu2.2), update-notifier:amd64 (3.192.54.5, 3.192.54.6), xserver-common:amd64 (2:21.1.3-2ubuntu2.9, 2:21.1.4-2ubuntu1.7~22.04.1), bind9-dnsutils:amd64 (1:9.18.1-1ubuntu1.3, 1:9.18.12-0ubuntu0.22.04.1), software-properties-gtk:amd64 (0.99.22.5, 0.99.22.6), systemd-hwe-hwdb:amd64 (249.11.2, 249.11.3), distro-info-data:amd64 (0.52ubuntu0.2, 0.52ubuntu0.3), linux-firmware:amd64 (20220329.git681281e4-0ubuntu3.10, 20220329.git681281e4-0ubuntu3.12), gir1.2-gdm-1.0:amd64 (42.0-1ubuntu7, 42.0-1ubuntu7.22.04.1), pulseaudio-module-bluetooth:amd64 (1:15.99.1+dfsg1-1ubuntu2, 1:15.99.1+dfsg1-1ubuntu2.1), xserver-xephyr:amd64 (2:21.1.3-2ubuntu2.9, 2:21.1.4-2ubuntu1.7~22.04.1), bind9-libs:amd64 (1:9.18.1-1ubuntu1.3, 1:9.18.12-0ubuntu0.22.04.1), netplan.io:amd64 (0.105-0ubuntu2~22.04.1, 0.105-0ubuntu2~22.04.3), code:amd64 (1.76.0-1677667493, 1.77.3-1681292746), systemd-sysv:amd64 (249.11-0ubuntu3.7, 249.11-0ubuntu3.9), thermald:amd64 (2.4.9-1ubuntu0.1, 2.4.9-1ubuntu0.2), shim-signed:amd64 (1.51+15.4-0ubuntu9, 1.51.3+15.7-0ubuntu1), libnetplan0:amd64 (0.105-0ubuntu2~22.04.1, 0.105-0ubuntu2~22.04.3), update-notifier-common:amd64 (3.192.54.5, 3.192.54.6)
+Error: Sub-process /usr/bin/dpkg exited unexpectedly
+End-Date: 2023-04-17  12:05:41

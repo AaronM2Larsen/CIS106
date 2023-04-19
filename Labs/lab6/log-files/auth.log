@@ -1,0 +1,83 @@
+Apr 17 09:50:46 CIS106 gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=127) by (uid=0)
+Apr 17 09:50:46 CIS106 systemd-logind[652]: New session c1 of user gdm.
+Apr 17 09:50:46 CIS106 systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=127) by (uid=0)
+Apr 17 09:50:48 CIS106 polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.36 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 17 09:51:12 CIS106 dbus-daemon[622]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 17 09:52:20 CIS106 gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 17 09:52:20 CIS106 gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 17 09:52:20 CIS106 gdm-password]: pam_unix(gdm-password:session): session opened for user amlarsen(uid=1000) by (uid=0)
+Apr 17 09:52:20 CIS106 systemd-logind[652]: New session 2 of user amlarsen.
+Apr 17 09:52:20 CIS106 systemd: pam_unix(systemd-user:session): session opened for user amlarsen(uid=1000) by (uid=0)
+Apr 17 09:52:21 CIS106 gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 17 09:52:22 CIS106 gnome-keyring-daemon[1318]: The PKCS#11 component was already initialized
+Apr 17 09:52:22 CIS106 gnome-keyring-daemon[1318]: The SSH agent was already initialized
+Apr 17 09:52:22 CIS106 gnome-keyring-daemon[1318]: The Secret Service was already initialized
+Apr 17 09:52:23 CIS106 polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.88 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 17 09:52:26 CIS106 PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 17 09:52:26 CIS106 PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 17 09:52:27 CIS106 gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 17 09:52:27 CIS106 systemd-logind[652]: Session c1 logged out. Waiting for processes to exit.
+Apr 17 09:52:27 CIS106 systemd-logind[652]: Removed session c1.
+Apr 17 09:52:27 CIS106 polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.36, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 17 09:52:46 CIS106 dbus-daemon[622]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 17 09:53:26 CIS106 PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 17 09:53:26 CIS106 PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 17 09:53:28 CIS106 pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 17 09:53:28 CIS106 pkexec[4064]: amlarsen: Executing command [USER=root] [TTY=unknown] [CWD=/home/amlarsen] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr 17 09:56:26 CIS106 pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 17 09:56:26 CIS106 pkexec[5135]: amlarsen: Executing command [USER=root] [TTY=unknown] [CWD=/home/amlarsen] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr 17 09:59:25 CIS106 pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 17 09:59:25 CIS106 pkexec[7445]: amlarsen: Executing command [USER=root] [TTY=unknown] [CWD=/home/amlarsen] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Apr 17 10:17:01 CIS106 CRON[7523]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 10:17:01 CIS106 CRON[7523]: pam_unix(cron:session): session closed for user root
+Apr 17 10:30:01 CIS106 CRON[7554]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 10:30:01 CIS106 CRON[7554]: pam_unix(cron:session): session closed for user root
+Apr 17 10:41:39 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 10:46:13 CIS106 dbus-daemon[622]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 17 11:17:01 CIS106 CRON[8941]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 11:17:01 CIS106 CRON[8941]: pam_unix(cron:session): session closed for user root
+Apr 17 11:23:19 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 11:30:01 CIS106 CRON[9073]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 11:30:01 CIS106 CRON[9073]: pam_unix(cron:session): session closed for user root
+Apr 17 11:39:56 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 12:04:54 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 12:05:26 CIS106 polkitd(authority=local): Operator of unix-session:2 FAILED to authenticate to gain authorization for action org.freedesktop.login1.power-off-ignore-inhibit for system-bus-name::1.87 [/usr/libexec/gnome-session-binary --systemd-service --session=ubuntu] (owned by unix-user:amlarsen)
+Apr 17 12:05:34 CIS106 polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:amlarsen to gain TEMPORARY authorization for action org.freedesktop.login1.power-off-ignore-inhibit for system-bus-name::1.87 [/usr/libexec/gnome-session-binary --systemd-service --session=ubuntu] (owned by unix-user:amlarsen)
+Apr 17 12:05:35 CIS106 polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.88, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 17 12:05:35 CIS106 systemd-logind[652]: System is powering down.
+Apr 17 13:27:08 CIS106 systemd-logind[651]: New seat seat0.
+Apr 17 13:27:08 CIS106 systemd-logind[651]: Watching system buttons on /dev/input/event0 (Power Button)
+Apr 17 13:27:08 CIS106 systemd-logind[651]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Apr 17 13:27:08 CIS106 systemd-logind[651]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Apr 17 13:27:08 CIS106 gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=127) by (uid=0)
+Apr 17 13:27:08 CIS106 systemd-logind[651]: New session c1 of user gdm.
+Apr 17 13:27:08 CIS106 systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=127) by (uid=0)
+Apr 17 13:27:10 CIS106 polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.38 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 17 13:27:17 CIS106 gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 17 13:27:17 CIS106 gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 17 13:27:17 CIS106 gdm-password]: pam_unix(gdm-password:session): session opened for user amlarsen(uid=1000) by (uid=0)
+Apr 17 13:27:17 CIS106 systemd-logind[651]: New session 2 of user amlarsen.
+Apr 17 13:27:17 CIS106 systemd: pam_unix(systemd-user:session): session opened for user amlarsen(uid=1000) by (uid=0)
+Apr 17 13:27:18 CIS106 gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 17 13:27:19 CIS106 gnome-keyring-daemon[1315]: The SSH agent was already initialized
+Apr 17 13:27:19 CIS106 gnome-keyring-daemon[1315]: The Secret Service was already initialized
+Apr 17 13:27:19 CIS106 gnome-keyring-daemon[1315]: The PKCS#11 component was already initialized
+Apr 17 13:27:20 CIS106 polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.85 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 17 13:27:23 CIS106 gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 17 13:27:23 CIS106 systemd-logind[651]: Session c1 logged out. Waiting for processes to exit.
+Apr 17 13:27:24 CIS106 systemd-logind[651]: Removed session c1.
+Apr 17 13:27:24 CIS106 polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.38, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 17 13:27:24 CIS106 PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 17 13:27:24 CIS106 PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 17 13:27:33 CIS106 dbus-daemon[619]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 17 13:30:01 CIS106 CRON[3017]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 13:30:01 CIS106 CRON[3017]: pam_unix(cron:session): session closed for user root
+Apr 17 14:06:23 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 14:17:01 CIS106 CRON[4631]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 14:17:01 CIS106 CRON[4631]: pam_unix(cron:session): session closed for user root
+Apr 17 14:30:01 CIS106 CRON[4776]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 17 14:30:01 CIS106 CRON[4776]: pam_unix(cron:session): session closed for user root
+Apr 17 14:46:49 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 14:47:34 CIS106 dbus-daemon[619]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Apr 17 15:06:32 CIS106 gdm-password]: gkr-pam: unlocked login keyring
+Apr 17 15:10:54 CIS106 dbus-daemon[619]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)

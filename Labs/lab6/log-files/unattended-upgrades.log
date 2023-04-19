@@ -1,0 +1,14 @@
+2023-04-03 08:56:47,924 INFO Starting unattended upgrades script
+2023-04-03 08:56:47,925 INFO Allowed origins are: o=Ubuntu,a=jammy, o=Ubuntu,a=jammy-security, o=UbuntuESMApps,a=jammy-apps-security, o=UbuntuESM,a=jammy-infra-security
+2023-04-03 08:56:47,925 INFO Initial blacklist: 
+2023-04-03 08:56:47,925 INFO Initial whitelist (not strict): 
+2023-04-03 08:56:52,597 INFO Packages that will be upgraded: imagemagick imagemagick-6-common imagemagick-6.q16 libmagickcore-6.q16-6 libmagickcore-6.q16-6-extra libmagickwand-6.q16-6 xserver-common xserver-xephyr xserver-xorg-core xserver-xorg-legacy xwayland
+2023-04-03 08:56:52,597 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2023-04-03 08:57:19,699 INFO All upgrades installed
+2023-04-17 09:56:06,774 INFO Starting unattended upgrades script
+2023-04-17 09:56:06,777 INFO Allowed origins are: o=Ubuntu,a=jammy, o=Ubuntu,a=jammy-security, o=UbuntuESMApps,a=jammy-apps-security, o=UbuntuESM,a=jammy-infra-security
+2023-04-17 09:56:06,777 INFO Initial blacklist: 
+2023-04-17 09:56:06,777 INFO Initial whitelist (not strict): 
+2023-04-17 09:56:17,564 INFO Packages that will be upgraded: ghostscript ghostscript-x libgs9 libgs9-common libldb2 liblouis-data liblouis20 libsmbclient libwbclient0 python3-apport python3-ldb python3-louis python3-problem-report python3-samba samba samba-common samba-common-bin samba-dsdb-modules samba-libs samba-vfs-modules smbclient sudo thunderbird thunderbird-gnome-support thunderbird-locale-en thunderbird-locale-en-us tzdata vim vim-common vim-runtime vim-tiny xxd
+2023-04-17 09:56:17,565 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2023-04-17 09:57:03,037 INFO All upgrades installed

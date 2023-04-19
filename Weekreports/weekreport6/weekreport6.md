@@ -23,7 +23,9 @@ amlarsen@cis106: [A-Z]*[0-9]
 
 ## Practice 5
 ![Practice5](Practice5.png)
+
 ## Practice 6
 ![Practice6](Practice6.png)
+
 ## Practice 7
 ![Practice7](Practice7.png)

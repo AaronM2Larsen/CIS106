@@ -1,0 +1,13 @@
+ERROR: apport (pid 1604) Wed Feb  8 11:01:28 2023: host pid 1510 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1704) Wed Feb  8 11:01:29 2023: host pid 1645 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1778) Wed Feb  8 11:01:29 2023: host pid 1705 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 2064) Wed Feb  8 11:01:30 2023: host pid 1865 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1618) Wed Feb  8 11:09:02 2023: host pid 1466 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1709) Wed Feb  8 11:09:02 2023: host pid 1648 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1770) Wed Feb  8 11:09:03 2023: host pid 1710 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1879) Wed Feb  8 11:09:03 2023: host pid 1800 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 2130) Wed Feb  8 11:09:04 2023: host pid 1963 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1608) Wed Feb  8 11:15:08 2023: host pid 1498 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1701) Wed Feb  8 11:15:08 2023: host pid 1642 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1778) Wed Feb  8 11:15:09 2023: host pid 1702 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 1909) Wed Feb  8 11:15:10 2023: host pid 1835 crashed in a separate mount namespace, ignoring

@@ -38,7 +38,6 @@ to remove a directory you would use rmdir for empty directories and rm -r **dire
 2) The cp command copies files/directories from a source to a destination
     1) cp -r ~/puppies/Desktop
     2) cp puppies/puppies_photo.jpeg Pictures/
-   
 ### Practice Questions ###
 ![Practice1](Practice1.png)
 ![Practice2](Practice2.png)

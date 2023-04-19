@@ -1,0 +1,726 @@
+Apr 17 09:50:47 CIS106 kernel: [    3.528803] loop17: detected capacity change from 0 to 8
+Apr 17 09:50:47 CIS106 kernel: [    3.831600] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:47 CIS106 kernel: [    3.831618] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:48 CIS106 kernel: [    4.138944] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:48 CIS106 kernel: [    4.138960] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:48 CIS106 kernel: [    4.643079] rfkill: input handler disabled
+Apr 17 09:50:48 CIS106 kernel: [    4.701673] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:48 CIS106 kernel: [    4.701716] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:48 CIS106 kernel: [    4.984458] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Apr 17 09:50:48 CIS106 kernel: [    4.984691] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Apr 17 09:50:49 CIS106 kernel: [    5.379174] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:50:49 CIS106 kernel: [    5.379191] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.044374] kauditd_printk_skb: 41 callbacks suppressed
+Apr 17 09:52:21 CIS106 kernel: [   93.044388] audit: type=1400 audit(1681739541.118:52): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=1303 comm="snap-confine" capability=12  capname="net_admin"
+Apr 17 09:52:21 CIS106 kernel: [   93.044391] audit: type=1400 audit(1681739541.118:53): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=1303 comm="snap-confine" capability=38  capname="perfmon"
+Apr 17 09:52:21 CIS106 kernel: [   93.282782] rfkill: input handler enabled
+Apr 17 09:52:21 CIS106 kernel: [   93.337143] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.337161] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.598264] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.598278] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.610737] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.610751] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:21 CIS106 kernel: [   93.904265] audit: type=1326 audit(1681739541.982:54): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=1519 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7f6c43b92a3d code=0x50000
+Apr 17 09:52:22 CIS106 kernel: [   94.364789] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:22 CIS106 kernel: [   94.364806] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:22 CIS106 kernel: [   94.676931] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:22 CIS106 kernel: [   94.676949] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:23 CIS106 kernel: [   94.979938] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:23 CIS106 kernel: [   94.979954] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:23 CIS106 kernel: [   95.317758] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:23 CIS106 kernel: [   95.317773] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:24 CIS106 kernel: [   96.364045] rfkill: input handler disabled
+Apr 17 09:52:24 CIS106 kernel: [   96.545983] audit: type=1326 audit(1681739544.622:55): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=1896 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fee1c77aa3d code=0x50000
+Apr 17 09:52:24 CIS106 kernel: [   96.556163] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:24 CIS106 kernel: [   96.556357] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:24 CIS106 kernel: [   96.784313] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:52:24 CIS106 kernel: [   96.784328] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:53:20 CIS106 kernel: [  151.962610] audit: type=1400 audit(1681739600.037:56): apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.firefox" name="/var/lib/" pid=2967 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Apr 17 09:53:20 CIS106 kernel: [  151.963121] audit: type=1400 audit(1681739600.037:57): apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.firefox" name="/var/lib/" pid=2967 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Apr 17 09:53:20 CIS106 kernel: [  152.842745] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:53:20 CIS106 kernel: [  152.842764] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:53:21 CIS106 kernel: [  152.925230] audit: type=1326 audit(1681739600.997:58): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.firefox.firefox pid=2941 comm="firefox" exe="/snap/firefox/2487/usr/lib/firefox/firefox" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7ff9cc19573d code=0x50000
+Apr 17 09:53:21 CIS106 kernel: [  153.434038] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:53:21 CIS106 kernel: [  153.434079] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 09:55:57 CIS106 kernel: [  309.440992] loop17: detected capacity change from 0 to 149488
+Apr 17 09:56:05 CIS106 kernel: [  317.771472] loop18: detected capacity change from 0 to 943256
+Apr 17 09:56:07 CIS106 kernel: [  319.033657] audit: type=1400 audit(1681739767.107:59): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.snapd-desktop-integration" pid=4535 comm="apparmor_parser"
+Apr 17 09:56:07 CIS106 kernel: [  319.212605] audit: type=1400 audit(1681739767.287:60): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snapd-desktop-integration.hook.configure" pid=4552 comm="apparmor_parser"
+Apr 17 09:56:07 CIS106 kernel: [  319.569498] audit: type=1400 audit(1681739767.643:61): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snapd-desktop-integration.snapd-desktop-integration" pid=4554 comm="apparmor_parser"
+Apr 17 10:45:48 CIS106 kernel: [ 3300.858460] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 10:45:48 CIS106 kernel: [ 3300.858483] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 10:49:56 CIS106 kernel: [ 3548.912774] audit: type=1326 audit(1681742996.992:62): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.firefox.firefox pid=8103 comm="firefox" exe="/snap/firefox/2487/usr/lib/firefox/firefox" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fe39147973d code=0x50000
+Apr 17 10:49:57 CIS106 kernel: [ 3548.967377] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 10:49:57 CIS106 kernel: [ 3548.967394] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 10:49:57 CIS106 kernel: [ 3549.353003] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 10:49:57 CIS106 kernel: [ 3549.353019] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 12:05:23 CIS106 kernel: [ 8075.727039] [drm] vmwgfx: mob memory overflow. Consider increasing guest RAM and graphicsMemory.
+Apr 17 12:05:23 CIS106 kernel: [ 8075.727045] [drm:vmw_host_printf [vmwgfx]] *ERROR* Failed to send host log message.
+Apr 17 12:05:23 CIS106 kernel: [ 8075.727058] [drm] vmwgfx: increasing guest mob limits to 262144 kB.
+Apr 17 12:05:34 CIS106 kernel: [ 8086.776015] rfkill: input handler enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] Linux version 5.19.0-38-generic (buildd@lcy02-amd64-001) (x86_64-linux-gnu-gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #39~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 17 21:16:15 UTC 2 (Ubuntu 5.19.0-38.39~22.04.1-generic 5.19.17)
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.19.0-38-generic root=UUID=464e2087-c18a-4875-9f01-df097e5a0311 ro quiet splash
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] KERNEL supported cpus:
+Apr 17 13:27:07 CIS106 kernel: [    0.000000]   Intel GenuineIntel
+Apr 17 13:27:07 CIS106 kernel: [    0.000000]   AMD AuthenticAMD
+Apr 17 13:27:07 CIS106 kernel: [    0.000000]   Hygon HygonGenuine
+Apr 17 13:27:07 CIS106 kernel: [    0.000000]   Centaur CentaurHauls
+Apr 17 13:27:07 CIS106 kernel: [    0.000000]   zhaoxin   Shanghai  
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] [Firmware Bug]: TSC doesn't count with P0 frequency!
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] signal: max sigframe size: 1776
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-provided physical RAM map:
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000007ffeffff] usable
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x000000007fff0000-0x000000007fffffff] ACPI data
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] NX (Execute Disable) protection: active
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] SMBIOS 2.5 present.
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] Hypervisor detected: KVM
+Apr 17 13:27:07 CIS106 kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+Apr 17 13:27:07 CIS106 kernel: [    0.000001] kvm-clock: using sched offset of 3375104388 cycles
+Apr 17 13:27:07 CIS106 kernel: [    0.000003] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.000005] tsc: Detected 3800.000 MHz processor
+Apr 17 13:27:07 CIS106 kernel: [    0.000798] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Apr 17 13:27:07 CIS106 kernel: [    0.000801] e820: remove [mem 0x000a0000-0x000fffff] usable
+Apr 17 13:27:07 CIS106 kernel: [    0.000804] last_pfn = 0x7fff0 max_arch_pfn = 0x400000000
+Apr 17 13:27:07 CIS106 kernel: [    0.000813] Disabled
+Apr 17 13:27:07 CIS106 kernel: [    0.000814] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+Apr 17 13:27:07 CIS106 kernel: [    0.000815] CPU MTRRs all blank - virtualized system.
+Apr 17 13:27:07 CIS106 kernel: [    0.000817] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+Apr 17 13:27:07 CIS106 kernel: [    0.000837] found SMP MP-table at [mem 0x0009fff0-0x0009ffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.000967] RAMDISK: [mem 0x2f4a9000-0x33a4bfff]
+Apr 17 13:27:07 CIS106 kernel: [    0.000971] ACPI: Early table checksum verification disabled
+Apr 17 13:27:07 CIS106 kernel: [    0.000973] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+Apr 17 13:27:07 CIS106 kernel: [    0.000976] ACPI: XSDT 0x000000007FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+Apr 17 13:27:07 CIS106 kernel: [    0.000980] ACPI: FACP 0x000000007FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+Apr 17 13:27:07 CIS106 kernel: [    0.000983] ACPI: DSDT 0x000000007FFF0610 002353 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+Apr 17 13:27:07 CIS106 kernel: [    0.000985] ACPI: FACS 0x000000007FFF0200 000040
+Apr 17 13:27:07 CIS106 kernel: [    0.000987] ACPI: FACS 0x000000007FFF0200 000040
+Apr 17 13:27:07 CIS106 kernel: [    0.000988] ACPI: APIC 0x000000007FFF0240 00005C (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+Apr 17 13:27:07 CIS106 kernel: [    0.000990] ACPI: SSDT 0x000000007FFF02A0 00036C (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+Apr 17 13:27:07 CIS106 kernel: [    0.000991] ACPI: Reserving FACP table memory at [mem 0x7fff00f0-0x7fff01e3]
+Apr 17 13:27:07 CIS106 kernel: [    0.000992] ACPI: Reserving DSDT table memory at [mem 0x7fff0610-0x7fff2962]
+Apr 17 13:27:07 CIS106 kernel: [    0.000993] ACPI: Reserving FACS table memory at [mem 0x7fff0200-0x7fff023f]
+Apr 17 13:27:07 CIS106 kernel: [    0.000993] ACPI: Reserving FACS table memory at [mem 0x7fff0200-0x7fff023f]
+Apr 17 13:27:07 CIS106 kernel: [    0.000994] ACPI: Reserving APIC table memory at [mem 0x7fff0240-0x7fff029b]
+Apr 17 13:27:07 CIS106 kernel: [    0.000994] ACPI: Reserving SSDT table memory at [mem 0x7fff02a0-0x7fff060b]
+Apr 17 13:27:07 CIS106 kernel: [    0.001156] No NUMA configuration found
+Apr 17 13:27:07 CIS106 kernel: [    0.001156] Faking a node at [mem 0x0000000000000000-0x000000007ffeffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001160] NODE_DATA(0) allocated [mem 0x7ffc5000-0x7ffeffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001352] Zone ranges:
+Apr 17 13:27:07 CIS106 kernel: [    0.001352]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001353]   DMA32    [mem 0x0000000001000000-0x000000007ffeffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001354]   Normal   empty
+Apr 17 13:27:07 CIS106 kernel: [    0.001355]   Device   empty
+Apr 17 13:27:07 CIS106 kernel: [    0.001356] Movable zone start for each node
+Apr 17 13:27:07 CIS106 kernel: [    0.001358] Early memory node ranges
+Apr 17 13:27:07 CIS106 kernel: [    0.001358]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001359]   node   0: [mem 0x0000000000100000-0x000000007ffeffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001360] Initmem setup node 0 [mem 0x0000000000001000-0x000000007ffeffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.001363] On node 0, zone DMA: 1 pages in unavailable ranges
+Apr 17 13:27:07 CIS106 kernel: [    0.001376] On node 0, zone DMA: 97 pages in unavailable ranges
+Apr 17 13:27:07 CIS106 kernel: [    0.003130] On node 0, zone DMA32: 16 pages in unavailable ranges
+Apr 17 13:27:07 CIS106 kernel: [    0.003350] ACPI: PM-Timer IO Port: 0x4008
+Apr 17 13:27:07 CIS106 kernel: [    0.003380] IOAPIC[0]: apic_id 2, version 32, address 0xfec00000, GSI 0-23
+Apr 17 13:27:07 CIS106 kernel: [    0.003382] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Apr 17 13:27:07 CIS106 kernel: [    0.003384] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+Apr 17 13:27:07 CIS106 kernel: [    0.003386] ACPI: Using ACPI (MADT) for SMP configuration information
+Apr 17 13:27:07 CIS106 kernel: [    0.003389] smpboot: Allowing 2 CPUs, 0 hotplug CPUs
+Apr 17 13:27:07 CIS106 kernel: [    0.003401] PM: hibernation: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Apr 17 13:27:07 CIS106 kernel: [    0.003402] PM: hibernation: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.003402] PM: hibernation: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Apr 17 13:27:07 CIS106 kernel: [    0.003403] PM: hibernation: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.003404] [mem 0x80000000-0xfebfffff] available for PCI devices
+Apr 17 13:27:07 CIS106 kernel: [    0.003404] Booting paravirtualized kernel on KVM
+Apr 17 13:27:07 CIS106 kernel: [    0.003406] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.003409] setup_percpu: NR_CPUS:8192 nr_cpumask_bits:2 nr_cpu_ids:2 nr_node_ids:1
+Apr 17 13:27:07 CIS106 kernel: [    0.003513] percpu: Embedded 61 pages/cpu s212992 r8192 d28672 u1048576
+Apr 17 13:27:07 CIS106 kernel: [    0.003515] pcpu-alloc: s212992 r8192 d28672 u1048576 alloc=1*2097152
+Apr 17 13:27:07 CIS106 kernel: [    0.003517] pcpu-alloc: [0] 0 1 
+Apr 17 13:27:07 CIS106 kernel: [    0.003529] kvm-guest: PV spinlocks enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.003530] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.003625] Fallback order for Node 0: 0 
+Apr 17 13:27:07 CIS106 kernel: [    0.003627] Built 1 zonelists, mobility grouping on.  Total pages: 515824
+Apr 17 13:27:07 CIS106 kernel: [    0.003627] Policy zone: DMA32
+Apr 17 13:27:07 CIS106 kernel: [    0.003628] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.19.0-38-generic root=UUID=464e2087-c18a-4875-9f01-df097e5a0311 ro quiet splash
+Apr 17 13:27:07 CIS106 kernel: [    0.003665] Unknown kernel command line parameters "splash BOOT_IMAGE=/boot/vmlinuz-5.19.0-38-generic", will be passed to user space.
+Apr 17 13:27:07 CIS106 kernel: [    0.003781] Dentry cache hash table entries: 262144 (order: 9, 2097152 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.003845] Inode-cache hash table entries: 131072 (order: 8, 1048576 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.003864] mem auto-init: stack:off, heap alloc:on, heap free:off
+Apr 17 13:27:07 CIS106 kernel: [    0.005938] Memory: 1942816K/2096696K available (18440K kernel code, 4050K rwdata, 11292K rodata, 3168K init, 4908K bss, 153620K reserved, 0K cma-reserved)
+Apr 17 13:27:07 CIS106 kernel: [    0.006373] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=2, Nodes=1
+Apr 17 13:27:07 CIS106 kernel: [    0.006391] ftrace: allocating 52179 entries in 204 pages
+Apr 17 13:27:07 CIS106 kernel: [    0.014585] ftrace: allocated 204 pages with 4 groups
+Apr 17 13:27:07 CIS106 kernel: [    0.015165] Dynamic Preempt: voluntary
+Apr 17 13:27:07 CIS106 kernel: [    0.015199] rcu: Preemptible hierarchical RCU implementation.
+Apr 17 13:27:07 CIS106 kernel: [    0.015199] rcu: 	RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=2.
+Apr 17 13:27:07 CIS106 kernel: [    0.015201] 	Trampoline variant of Tasks RCU enabled.
+Apr 17 13:27:07 CIS106 kernel: [    0.015201] 	Rude variant of Tasks RCU enabled.
+Apr 17 13:27:07 CIS106 kernel: [    0.015201] 	Tracing variant of Tasks RCU enabled.
+Apr 17 13:27:07 CIS106 kernel: [    0.015202] rcu: RCU calculated value of scheduler-enlistment delay is 25 jiffies.
+Apr 17 13:27:07 CIS106 kernel: [    0.015202] rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=2
+Apr 17 13:27:07 CIS106 kernel: [    0.017889] NR_IRQS: 524544, nr_irqs: 440, preallocated irqs: 16
+Apr 17 13:27:07 CIS106 kernel: [    0.018053] rcu: srcu_init: Setting srcu_struct sizes based on contention.
+Apr 17 13:27:07 CIS106 kernel: [    0.018156] random: crng init done
+Apr 17 13:27:07 CIS106 kernel: [    0.023930] Console: colour VGA+ 80x25
+Apr 17 13:27:07 CIS106 kernel: [    0.023937] printk: console [tty0] enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.023949] ACPI: Core revision 20220331
+Apr 17 13:27:07 CIS106 kernel: [    0.024027] APIC: Switch to symmetric I/O mode setup
+Apr 17 13:27:07 CIS106 kernel: [    0.024175] x2apic enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.024314] Switched APIC routing to physical x2apic.
+Apr 17 13:27:07 CIS106 kernel: [    0.025058] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Apr 17 13:27:07 CIS106 kernel: [    0.025073] clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x6d8cb0e20f4, max_idle_ns: 881590468932 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.025078] Calibrating delay loop (skipped) preset value.. 7600.00 BogoMIPS (lpj=15200000)
+Apr 17 13:27:07 CIS106 kernel: [    0.025080] pid_max: default: 32768 minimum: 301
+Apr 17 13:27:07 CIS106 kernel: [    0.025094] LSM: Security Framework initializing
+Apr 17 13:27:07 CIS106 kernel: [    0.025100] landlock: Up and running.
+Apr 17 13:27:07 CIS106 kernel: [    0.025101] Yama: becoming mindful.
+Apr 17 13:27:07 CIS106 kernel: [    0.025115] AppArmor: AppArmor initialized
+Apr 17 13:27:07 CIS106 kernel: [    0.025133] Mount-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.025135] Mountpoint-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.025307] Last level iTLB entries: 4KB 512, 2MB 512, 4MB 256
+Apr 17 13:27:07 CIS106 kernel: [    0.025308] Last level dTLB entries: 4KB 2048, 2MB 2048, 4MB 1024, 1GB 0
+Apr 17 13:27:07 CIS106 kernel: [    0.025311] Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Apr 17 13:27:07 CIS106 kernel: [    0.025312] Spectre V2 : Mitigation: Retpolines
+Apr 17 13:27:07 CIS106 kernel: [    0.025313] Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+Apr 17 13:27:07 CIS106 kernel: [    0.025313] Spectre V2 : Spectre v2 / SpectreRSB : Filling RSB on VMEXIT
+Apr 17 13:27:07 CIS106 kernel: [    0.029076] Freeing SMP alternatives memory: 44K
+Apr 17 13:27:07 CIS106 kernel: [    0.143367] APIC calibration not consistent with PM-Timer: 105ms instead of 100ms
+Apr 17 13:27:07 CIS106 kernel: [    0.143370] APIC delta adjusted to PM-Timer: 6355016 (6690864)
+Apr 17 13:27:07 CIS106 kernel: [    0.143415] smpboot: CPU0: AMD Ryzen 7 5800X 8-Core Processor (family: 0x19, model: 0x21, stepping: 0x2)
+Apr 17 13:27:07 CIS106 kernel: [    0.143503] cblist_init_generic: Setting adjustable number of callback queues.
+Apr 17 13:27:07 CIS106 kernel: [    0.143504] cblist_init_generic: Setting shift to 1 and lim to 1.
+Apr 17 13:27:07 CIS106 kernel: [    0.143514] cblist_init_generic: Setting shift to 1 and lim to 1.
+Apr 17 13:27:07 CIS106 kernel: [    0.143520] cblist_init_generic: Setting shift to 1 and lim to 1.
+Apr 17 13:27:07 CIS106 kernel: [    0.143526] Performance Events: PMU not available due to virtualization, using software events only.
+Apr 17 13:27:07 CIS106 kernel: [    0.143551] rcu: Hierarchical SRCU implementation.
+Apr 17 13:27:07 CIS106 kernel: [    0.143552] rcu: 	Max phase no-delay instances is 1000.
+Apr 17 13:27:07 CIS106 kernel: [    0.143815] NMI watchdog: Perf NMI watchdog permanently disabled
+Apr 17 13:27:07 CIS106 kernel: [    0.143845] smp: Bringing up secondary CPUs ...
+Apr 17 13:27:07 CIS106 kernel: [    0.143893] x86: Booting SMP configuration:
+Apr 17 13:27:07 CIS106 kernel: [    0.143893] .... node  #0, CPUs:      #1
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] smp: Brought up 1 node, 2 CPUs
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] smpboot: Max logical packages: 1
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] smpboot: Total of 2 processors activated (15200.00 BogoMIPS)
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] devtmpfs: initialized
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] x86/mm: Memory block size: 128MB
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] futex hash table entries: 512 (order: 3, 32768 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] pinctrl core: initialized pinctrl subsystem
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] PM: RTC time: 17:26:58, date: 2023-04-17
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] NET: Registered PF_NETLINK/PF_ROUTE protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] DMA: preallocated 256 KiB GFP_KERNEL pool for atomic allocations
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] audit: initializing netlink subsys (disabled)
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] audit: type=2000 audit(1681752424.230:1): state=initialized audit_enabled=0 res=1
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] thermal_sys: Registered thermal governor 'fair_share'
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] thermal_sys: Registered thermal governor 'bang_bang'
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] thermal_sys: Registered thermal governor 'step_wise'
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] thermal_sys: Registered thermal governor 'user_space'
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] thermal_sys: Registered thermal governor 'power_allocator'
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] EISA bus registered
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] cpuidle: using governor ladder
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] cpuidle: using governor menu
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] PCI: Using configuration type 1 for base access
+Apr 17 13:27:07 CIS106 kernel: [    0.145076] PCI: Using configuration type 1 for extended access
+Apr 17 13:27:07 CIS106 kernel: [    0.145336] kprobes: kprobe jump-optimization is enabled. All kprobes are optimized if possible.
+Apr 17 13:27:07 CIS106 kernel: [    0.157090] HugeTLB: can optimize 7 vmemmap pages for hugepages-2048kB
+Apr 17 13:27:07 CIS106 kernel: [    0.157092] HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+Apr 17 13:27:07 CIS106 kernel: [    0.157124] ACPI: Added _OSI(Module Device)
+Apr 17 13:27:07 CIS106 kernel: [    0.157124] ACPI: Added _OSI(Processor Device)
+Apr 17 13:27:07 CIS106 kernel: [    0.157124] ACPI: Added _OSI(3.0 _SCP Extensions)
+Apr 17 13:27:07 CIS106 kernel: [    0.157125] ACPI: Added _OSI(Processor Aggregator Device)
+Apr 17 13:27:07 CIS106 kernel: [    0.157125] ACPI: Added _OSI(Linux-Dell-Video)
+Apr 17 13:27:07 CIS106 kernel: [    0.157126] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Apr 17 13:27:07 CIS106 kernel: [    0.157126] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Apr 17 13:27:07 CIS106 kernel: [    0.158272] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] ACPI: Interpreter enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] ACPI: PM: (supports S0 S5)
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] ACPI: Using IOAPIC for interrupt routing
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] PCI: Using E820 reservations for host bridge windows
+Apr 17 13:27:07 CIS106 kernel: [    0.159043] ACPI: Enabled 2 GPEs in block 00 to 07
+Apr 17 13:27:07 CIS106 kernel: [    0.161837] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Apr 17 13:27:07 CIS106 kernel: [    0.161841] acpi PNP0A03:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+Apr 17 13:27:07 CIS106 kernel: [    0.162110] acpi PNP0A03:00: _OSC: platform does not support [PCIeCapability LTR DPC]
+Apr 17 13:27:07 CIS106 kernel: [    0.162351] acpi PNP0A03:00: _OSC: not requesting control; platform does not support [PCIeCapability]
+Apr 17 13:27:07 CIS106 kernel: [    0.162352] acpi PNP0A03:00: _OSC: OS requested [PCIeHotplug SHPCHotplug PME AER PCIeCapability LTR DPC]
+Apr 17 13:27:07 CIS106 kernel: [    0.162354] acpi PNP0A03:00: _OSC: platform willing to grant [PCIeHotplug SHPCHotplug PME AER]
+Apr 17 13:27:07 CIS106 kernel: [    0.162354] acpi PNP0A03:00: _OSC: platform retains control of PCIe features (AE_SUPPORT)
+Apr 17 13:27:07 CIS106 kernel: [    0.162554] PCI host bridge to bus 0000:00
+Apr 17 13:27:07 CIS106 kernel: [    0.162556] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Apr 17 13:27:07 CIS106 kernel: [    0.162557] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.162558] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.162558] pci_bus 0000:00: root bus resource [mem 0x80000000-0xfdffffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.162559] pci_bus 0000:00: root bus resource [bus 00-ff]
+Apr 17 13:27:07 CIS106 kernel: [    0.162769] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Apr 17 13:27:07 CIS106 kernel: [    0.163044] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Apr 17 13:27:07 CIS106 kernel: [    0.163423] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+Apr 17 13:27:07 CIS106 kernel: [    0.163644] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+Apr 17 13:27:07 CIS106 kernel: [    0.163729] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Apr 17 13:27:07 CIS106 kernel: [    0.163730] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Apr 17 13:27:07 CIS106 kernel: [    0.163731] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Apr 17 13:27:07 CIS106 kernel: [    0.163731] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Apr 17 13:27:07 CIS106 kernel: [    0.163820] pci 0000:00:02.0: [15ad:0405] type 00 class 0x030000
+Apr 17 13:27:07 CIS106 kernel: [    0.164921] pci 0000:00:02.0: reg 0x10: [io  0xd010-0xd01f]
+Apr 17 13:27:07 CIS106 kernel: [    0.165615] pci 0000:00:02.0: reg 0x14: [mem 0xe0000000-0xe7ffffff pref]
+Apr 17 13:27:07 CIS106 kernel: [    0.166539] pci 0000:00:02.0: reg 0x18: [mem 0xf0000000-0xf01fffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.169662] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.169804] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+Apr 17 13:27:07 CIS106 kernel: [    0.170087] pci 0000:00:03.0: reg 0x10: [mem 0xf0200000-0xf021ffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.170471] pci 0000:00:03.0: reg 0x18: [io  0xd020-0xd027]
+Apr 17 13:27:07 CIS106 kernel: [    0.171483] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+Apr 17 13:27:07 CIS106 kernel: [    0.171720] pci 0000:00:04.0: reg 0x10: [io  0xd040-0xd05f]
+Apr 17 13:27:07 CIS106 kernel: [    0.171893] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.172110] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+Apr 17 13:27:07 CIS106 kernel: [    0.173664] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+Apr 17 13:27:07 CIS106 kernel: [    0.173880] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+Apr 17 13:27:07 CIS106 kernel: [    0.175163] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+Apr 17 13:27:07 CIS106 kernel: [    0.175536] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+Apr 17 13:27:07 CIS106 kernel: [    0.175544] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+Apr 17 13:27:07 CIS106 kernel: [    0.176305] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+Apr 17 13:27:07 CIS106 kernel: [    0.176571] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+Apr 17 13:27:07 CIS106 kernel: [    0.178160] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+Apr 17 13:27:07 CIS106 kernel: [    0.178375] pci 0000:00:0d.0: reg 0x10: [io  0xd060-0xd067]
+Apr 17 13:27:07 CIS106 kernel: [    0.178566] pci 0000:00:0d.0: reg 0x14: [io  0xd068-0xd06b]
+Apr 17 13:27:07 CIS106 kernel: [    0.178743] pci 0000:00:0d.0: reg 0x18: [io  0xd070-0xd077]
+Apr 17 13:27:07 CIS106 kernel: [    0.178935] pci 0000:00:0d.0: reg 0x1c: [io  0xd078-0xd07b]
+Apr 17 13:27:07 CIS106 kernel: [    0.179113] pci 0000:00:0d.0: reg 0x20: [io  0xd080-0xd08f]
+Apr 17 13:27:07 CIS106 kernel: [    0.179290] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+Apr 17 13:27:07 CIS106 kernel: [    0.184307] ACPI: PCI: Interrupt link LNKA configured for IRQ 11
+Apr 17 13:27:07 CIS106 kernel: [    0.184461] ACPI: PCI: Interrupt link LNKB configured for IRQ 10
+Apr 17 13:27:07 CIS106 kernel: [    0.184515] ACPI: PCI: Interrupt link LNKC configured for IRQ 9
+Apr 17 13:27:07 CIS106 kernel: [    0.184568] ACPI: PCI: Interrupt link LNKD configured for IRQ 11
+Apr 17 13:27:07 CIS106 kernel: [    0.184686] iommu: Default domain type: Translated 
+Apr 17 13:27:07 CIS106 kernel: [    0.184686] iommu: DMA domain TLB invalidation policy: lazy mode 
+Apr 17 13:27:07 CIS106 kernel: [    0.184686] SCSI subsystem initialized
+Apr 17 13:27:07 CIS106 kernel: [    0.185083] libata version 3.00 loaded.
+Apr 17 13:27:07 CIS106 kernel: [    0.185093] ACPI: bus type USB registered
+Apr 17 13:27:07 CIS106 kernel: [    0.185100] usbcore: registered new interface driver usbfs
+Apr 17 13:27:07 CIS106 kernel: [    0.185103] usbcore: registered new interface driver hub
+Apr 17 13:27:07 CIS106 kernel: [    0.185106] usbcore: registered new device driver usb
+Apr 17 13:27:07 CIS106 kernel: [    0.185116] pps_core: LinuxPPS API ver. 1 registered
+Apr 17 13:27:07 CIS106 kernel: [    0.185116] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Apr 17 13:27:07 CIS106 kernel: [    0.185118] PTP clock support registered
+Apr 17 13:27:07 CIS106 kernel: [    0.185133] EDAC MC: Ver: 3.0.0
+Apr 17 13:27:07 CIS106 kernel: [    0.185207] NetLabel: Initializing
+Apr 17 13:27:07 CIS106 kernel: [    0.185207] NetLabel:  domain hash size = 128
+Apr 17 13:27:07 CIS106 kernel: [    0.185207] NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+Apr 17 13:27:07 CIS106 kernel: [    0.185207] NetLabel:  unlabeled traffic allowed by default
+Apr 17 13:27:07 CIS106 kernel: [    0.185216] mctp: management component transport protocol core
+Apr 17 13:27:07 CIS106 kernel: [    0.185217] NET: Registered PF_MCTP protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.185219] PCI: Using ACPI for IRQ routing
+Apr 17 13:27:07 CIS106 kernel: [    0.185220] PCI: pci_cache_line_size set to 64 bytes
+Apr 17 13:27:07 CIS106 kernel: [    0.185324] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.185325] e820: reserve RAM buffer [mem 0x7fff0000-0x7fffffff]
+Apr 17 13:27:07 CIS106 kernel: [    0.185336] pci 0000:00:02.0: vgaarb: setting as boot VGA device
+Apr 17 13:27:07 CIS106 kernel: [    0.185336] pci 0000:00:02.0: vgaarb: bridge control possible
+Apr 17 13:27:07 CIS106 kernel: [    0.185336] pci 0000:00:02.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+Apr 17 13:27:07 CIS106 kernel: [    0.185336] vgaarb: loaded
+Apr 17 13:27:07 CIS106 kernel: [    0.185336] clocksource: Switched to clocksource kvm-clock
+Apr 17 13:27:07 CIS106 kernel: [    0.190634] VFS: Disk quotas dquot_6.6.0
+Apr 17 13:27:07 CIS106 kernel: [    0.190640] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Apr 17 13:27:07 CIS106 kernel: [    0.190695] AppArmor: AppArmor Filesystem Enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.190703] pnp: PnP ACPI init
+Apr 17 13:27:07 CIS106 kernel: [    0.191182] pnp: PnP ACPI: found 2 devices
+Apr 17 13:27:07 CIS106 kernel: [    0.197617] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.197650] NET: Registered PF_INET protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.197674] IP idents hash table entries: 32768 (order: 6, 262144 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198039] tcp_listen_portaddr_hash hash table entries: 1024 (order: 2, 16384 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198050] Table-perturb hash table entries: 65536 (order: 6, 262144 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198056] TCP established hash table entries: 16384 (order: 5, 131072 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198075] TCP bind hash table entries: 16384 (order: 6, 262144 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198085] TCP: Hash tables configured (established 16384 bind 16384)
+Apr 17 13:27:07 CIS106 kernel: [    0.198108] MPTCP token hash table entries: 2048 (order: 3, 49152 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198115] UDP hash table entries: 1024 (order: 3, 32768 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198120] UDP-Lite hash table entries: 1024 (order: 3, 32768 bytes, linear)
+Apr 17 13:27:07 CIS106 kernel: [    0.198134] NET: Registered PF_UNIX/PF_LOCAL protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.198137] NET: Registered PF_XDP protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.198141] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Apr 17 13:27:07 CIS106 kernel: [    0.198143] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.198143] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.198144] pci_bus 0000:00: resource 7 [mem 0x80000000-0xfdffffff window]
+Apr 17 13:27:07 CIS106 kernel: [    0.198171] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Apr 17 13:27:07 CIS106 kernel: [    0.198179] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Apr 17 13:27:07 CIS106 kernel: [    0.199399] PCI: CLS 0 bytes, default 64
+Apr 17 13:27:07 CIS106 kernel: [    0.199420] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x6d8cb0e20f4, max_idle_ns: 881590468932 ns
+Apr 17 13:27:07 CIS106 kernel: [    0.199438] clocksource: Switched to clocksource tsc
+Apr 17 13:27:07 CIS106 kernel: [    0.199447] platform rtc_cmos: registered platform RTC device (no PNP device found)
+Apr 17 13:27:07 CIS106 kernel: [    0.199455] Trying to unpack rootfs image as initramfs...
+Apr 17 13:27:07 CIS106 kernel: [    0.201165] Initialise system trusted keyrings
+Apr 17 13:27:07 CIS106 kernel: [    0.201171] Key type blacklist registered
+Apr 17 13:27:07 CIS106 kernel: [    0.205130] workingset: timestamp_bits=36 max_order=19 bucket_order=0
+Apr 17 13:27:07 CIS106 kernel: [    0.205623] zbud: loaded
+Apr 17 13:27:07 CIS106 kernel: [    0.205760] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Apr 17 13:27:07 CIS106 kernel: [    0.209220] fuse: init (API version 7.36)
+Apr 17 13:27:07 CIS106 kernel: [    0.209340] integrity: Platform Keyring initialized
+Apr 17 13:27:07 CIS106 kernel: [    0.209342] integrity: Machine keyring initialized
+Apr 17 13:27:07 CIS106 kernel: [    0.216578] Key type asymmetric registered
+Apr 17 13:27:07 CIS106 kernel: [    0.216580] Asymmetric key parser 'x509' registered
+Apr 17 13:27:07 CIS106 kernel: [    0.405161] Freeing initrd memory: 71308K
+Apr 17 13:27:07 CIS106 kernel: [    0.406960] alg: self-tests for CTR-KDF (hmac(sha256)) passed
+Apr 17 13:27:07 CIS106 kernel: [    0.406976] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+Apr 17 13:27:07 CIS106 kernel: [    0.407013] io scheduler mq-deadline registered
+Apr 17 13:27:07 CIS106 kernel: [    0.407232] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Apr 17 13:27:07 CIS106 kernel: [    0.407341] ACPI: AC: AC Adapter [AC] (on-line)
+Apr 17 13:27:07 CIS106 kernel: [    0.407365] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Apr 17 13:27:07 CIS106 kernel: [    0.407395] ACPI: button: Power Button [PWRF]
+Apr 17 13:27:07 CIS106 kernel: [    0.407429] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+Apr 17 13:27:07 CIS106 kernel: [    0.407436] ACPI: button: Sleep Button [SLPF]
+Apr 17 13:27:07 CIS106 kernel: [    0.407635] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.408693] Linux agpgart interface v0.103
+Apr 17 13:27:07 CIS106 kernel: [    0.409451] loop: module loaded
+Apr 17 13:27:07 CIS106 kernel: [    0.409533] ata_piix 0000:00:01.1: version 2.13
+Apr 17 13:27:07 CIS106 kernel: [    0.409775] scsi host0: ata_piix
+Apr 17 13:27:07 CIS106 kernel: [    0.409854] scsi host1: ata_piix
+Apr 17 13:27:07 CIS106 kernel: [    0.409869] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+Apr 17 13:27:07 CIS106 kernel: [    0.409870] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+Apr 17 13:27:07 CIS106 kernel: [    0.409924] tun: Universal TUN/TAP device driver, 1.6
+Apr 17 13:27:07 CIS106 kernel: [    0.409939] PPP generic driver version 2.4.2
+Apr 17 13:27:07 CIS106 kernel: [    0.409961] VFIO - User Level meta-driver version: 0.3
+Apr 17 13:27:07 CIS106 kernel: [    0.409981] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Apr 17 13:27:07 CIS106 kernel: [    0.409983] ehci-pci: EHCI PCI platform driver
+Apr 17 13:27:07 CIS106 kernel: [    0.410343] ehci-pci 0000:00:0b.0: EHCI Host Controller
+Apr 17 13:27:07 CIS106 kernel: [    0.410347] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+Apr 17 13:27:07 CIS106 kernel: [    0.410465] ehci-pci 0000:00:0b.0: irq 19, io mem 0xf0805000
+Apr 17 13:27:07 CIS106 kernel: [    0.425425] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+Apr 17 13:27:07 CIS106 kernel: [    0.425462] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.19
+Apr 17 13:27:07 CIS106 kernel: [    0.425465] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Apr 17 13:27:07 CIS106 kernel: [    0.425466] usb usb1: Product: EHCI Host Controller
+Apr 17 13:27:07 CIS106 kernel: [    0.425467] usb usb1: Manufacturer: Linux 5.19.0-38-generic ehci_hcd
+Apr 17 13:27:07 CIS106 kernel: [    0.425467] usb usb1: SerialNumber: 0000:00:0b.0
+Apr 17 13:27:07 CIS106 kernel: [    0.425520] hub 1-0:1.0: USB hub found
+Apr 17 13:27:07 CIS106 kernel: [    0.425524] hub 1-0:1.0: 12 ports detected
+Apr 17 13:27:07 CIS106 kernel: [    0.425649] ehci-platform: EHCI generic platform driver
+Apr 17 13:27:07 CIS106 kernel: [    0.425654] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Apr 17 13:27:07 CIS106 kernel: [    0.425656] ohci-pci: OHCI PCI platform driver
+Apr 17 13:27:07 CIS106 kernel: [    0.426086] ohci-pci 0000:00:06.0: OHCI PCI host controller
+Apr 17 13:27:07 CIS106 kernel: [    0.426090] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+Apr 17 13:27:07 CIS106 kernel: [    0.426135] ohci-pci 0000:00:06.0: irq 22, io mem 0xf0804000
+Apr 17 13:27:07 CIS106 kernel: [    0.486311] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.19
+Apr 17 13:27:07 CIS106 kernel: [    0.486314] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Apr 17 13:27:07 CIS106 kernel: [    0.486315] usb usb2: Product: OHCI PCI host controller
+Apr 17 13:27:07 CIS106 kernel: [    0.486316] usb usb2: Manufacturer: Linux 5.19.0-38-generic ohci_hcd
+Apr 17 13:27:07 CIS106 kernel: [    0.486317] usb usb2: SerialNumber: 0000:00:06.0
+Apr 17 13:27:07 CIS106 kernel: [    0.486408] hub 2-0:1.0: USB hub found
+Apr 17 13:27:07 CIS106 kernel: [    0.486428] hub 2-0:1.0: 12 ports detected
+Apr 17 13:27:07 CIS106 kernel: [    0.486805] ohci-platform: OHCI generic platform driver
+Apr 17 13:27:07 CIS106 kernel: [    0.486813] uhci_hcd: USB Universal Host Controller Interface driver
+Apr 17 13:27:07 CIS106 kernel: [    0.486844] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Apr 17 13:27:07 CIS106 kernel: [    0.487193] serio: i8042 KBD port at 0x60,0x64 irq 1
+Apr 17 13:27:07 CIS106 kernel: [    0.487196] serio: i8042 AUX port at 0x60,0x64 irq 12
+Apr 17 13:27:07 CIS106 kernel: [    0.487311] mousedev: PS/2 mouse device common for all mice
+Apr 17 13:27:07 CIS106 kernel: [    0.487622] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+Apr 17 13:27:07 CIS106 kernel: [    0.487837] rtc_cmos rtc_cmos: registered as rtc0
+Apr 17 13:27:07 CIS106 kernel: [    0.487857] rtc_cmos rtc_cmos: setting system clock to 2023-04-17T17:26:58 UTC (1681752418)
+Apr 17 13:27:07 CIS106 kernel: [    0.487864] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+Apr 17 13:27:07 CIS106 kernel: [    0.487867] i2c_dev: i2c /dev entries driver
+Apr 17 13:27:07 CIS106 kernel: [    0.487877] device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+Apr 17 13:27:07 CIS106 kernel: [    0.487892] device-mapper: uevent: version 1.0.3
+Apr 17 13:27:07 CIS106 kernel: [    0.487929] device-mapper: ioctl: 4.47.0-ioctl (2022-07-28) initialised: dm-devel@redhat.com
+Apr 17 13:27:07 CIS106 kernel: [    0.487939] platform eisa.0: Probing EISA bus 0
+Apr 17 13:27:07 CIS106 kernel: [    0.487940] platform eisa.0: EISA: Cannot allocate resource for mainboard
+Apr 17 13:27:07 CIS106 kernel: [    0.487941] platform eisa.0: Cannot allocate resource for EISA slot 1
+Apr 17 13:27:07 CIS106 kernel: [    0.487942] platform eisa.0: Cannot allocate resource for EISA slot 2
+Apr 17 13:27:07 CIS106 kernel: [    0.487942] platform eisa.0: Cannot allocate resource for EISA slot 3
+Apr 17 13:27:07 CIS106 kernel: [    0.487943] platform eisa.0: Cannot allocate resource for EISA slot 4
+Apr 17 13:27:07 CIS106 kernel: [    0.487944] platform eisa.0: Cannot allocate resource for EISA slot 5
+Apr 17 13:27:07 CIS106 kernel: [    0.487944] platform eisa.0: Cannot allocate resource for EISA slot 6
+Apr 17 13:27:07 CIS106 kernel: [    0.487945] platform eisa.0: Cannot allocate resource for EISA slot 7
+Apr 17 13:27:07 CIS106 kernel: [    0.487945] platform eisa.0: Cannot allocate resource for EISA slot 8
+Apr 17 13:27:07 CIS106 kernel: [    0.487946] platform eisa.0: EISA: Detected 0 cards
+Apr 17 13:27:07 CIS106 kernel: [    0.487967] ledtrig-cpu: registered to indicate activity on CPUs
+Apr 17 13:27:07 CIS106 kernel: [    0.487999] drop_monitor: Initializing network drop monitor service
+Apr 17 13:27:07 CIS106 kernel: [    0.494503] NET: Registered PF_INET6 protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.496384] Segment Routing with IPv6
+Apr 17 13:27:07 CIS106 kernel: [    0.496391] In-situ OAM (IOAM) with IPv6
+Apr 17 13:27:07 CIS106 kernel: [    0.496421] NET: Registered PF_PACKET protocol family
+Apr 17 13:27:07 CIS106 kernel: [    0.496460] Key type dns_resolver registered
+Apr 17 13:27:07 CIS106 kernel: [    0.496577] IPI shorthand broadcast: enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.496592] sched_clock: Marking stable (489607823, 6941429)->(504830105, -8280853)
+Apr 17 13:27:07 CIS106 kernel: [    0.496683] registered taskstats version 1
+Apr 17 13:27:07 CIS106 kernel: [    0.496723] Loading compiled-in X.509 certificates
+Apr 17 13:27:07 CIS106 kernel: [    0.497264] Loaded X.509 cert 'Build time autogenerated kernel key: 19902c69941d0c3d5617a5e3134fa492509c6041'
+Apr 17 13:27:07 CIS106 kernel: [    0.497598] Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+Apr 17 13:27:07 CIS106 kernel: [    0.497870] Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+Apr 17 13:27:07 CIS106 kernel: [    0.497870] blacklist: Loading compiled-in revocation X.509 certificates
+Apr 17 13:27:07 CIS106 kernel: [    0.497881] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+Apr 17 13:27:07 CIS106 kernel: [    0.497889] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2017): 242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+Apr 17 13:27:07 CIS106 kernel: [    0.497897] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (ESM 2018): 365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+Apr 17 13:27:07 CIS106 kernel: [    0.497905] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2019): c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+Apr 17 13:27:07 CIS106 kernel: [    0.497913] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v1): a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+Apr 17 13:27:07 CIS106 kernel: [    0.497921] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v2): 4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+Apr 17 13:27:07 CIS106 kernel: [    0.497949] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v3): 100437bb6de6e469b581e61cd66bce3ef4ed53af'
+Apr 17 13:27:07 CIS106 kernel: [    0.497960] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (Ubuntu Core 2019): c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+Apr 17 13:27:07 CIS106 kernel: [    0.498043] zswap: loaded using pool lzo/zbud
+Apr 17 13:27:07 CIS106 kernel: [    0.498144] Key type .fscrypt registered
+Apr 17 13:27:07 CIS106 kernel: [    0.498145] Key type fscrypt-provisioning registered
+Apr 17 13:27:07 CIS106 kernel: [    0.499908] Key type encrypted registered
+Apr 17 13:27:07 CIS106 kernel: [    0.499910] AppArmor: AppArmor sha1 policy hashing enabled
+Apr 17 13:27:07 CIS106 kernel: [    0.499915] ima: No TPM chip found, activating TPM-bypass!
+Apr 17 13:27:07 CIS106 kernel: [    0.499917] Loading compiled-in module X.509 certificates
+Apr 17 13:27:07 CIS106 kernel: [    0.500202] Loaded X.509 cert 'Build time autogenerated kernel key: 19902c69941d0c3d5617a5e3134fa492509c6041'
+Apr 17 13:27:07 CIS106 kernel: [    0.500203] ima: Allocated hash algorithm: sha1
+Apr 17 13:27:07 CIS106 kernel: [    0.500207] ima: No architecture policies found
+Apr 17 13:27:07 CIS106 kernel: [    0.500213] evm: Initialising EVM extended attributes:
+Apr 17 13:27:07 CIS106 kernel: [    0.500213] evm: security.selinux
+Apr 17 13:27:07 CIS106 kernel: [    0.500214] evm: security.SMACK64
+Apr 17 13:27:07 CIS106 kernel: [    0.500214] evm: security.SMACK64EXEC
+Apr 17 13:27:07 CIS106 kernel: [    0.500215] evm: security.SMACK64TRANSMUTE
+Apr 17 13:27:07 CIS106 kernel: [    0.500215] evm: security.SMACK64MMAP
+Apr 17 13:27:07 CIS106 kernel: [    0.500215] evm: security.apparmor
+Apr 17 13:27:07 CIS106 kernel: [    0.500215] evm: security.ima
+Apr 17 13:27:07 CIS106 kernel: [    0.500216] evm: security.capability
+Apr 17 13:27:07 CIS106 kernel: [    0.500216] evm: HMAC attrs: 0x1
+Apr 17 13:27:07 CIS106 kernel: [    0.501658] PM:   Magic number: 3:443:441
+Apr 17 13:27:07 CIS106 kernel: [    0.501774] RAS: Correctable Errors collector initialized.
+Apr 17 13:27:07 CIS106 kernel: [    0.581204] ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+Apr 17 13:27:07 CIS106 kernel: [    0.581705] scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+Apr 17 13:27:07 CIS106 kernel: [    0.609906] sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+Apr 17 13:27:07 CIS106 kernel: [    0.609909] cdrom: Uniform CD-ROM driver Revision: 3.20
+Apr 17 13:27:07 CIS106 kernel: [    0.637780] sr 1:0:0:0: Attached scsi CD-ROM sr0
+Apr 17 13:27:07 CIS106 kernel: [    0.637940] sr 1:0:0:0: Attached scsi generic sg0 type 5
+Apr 17 13:27:07 CIS106 kernel: [    0.638697] Freeing unused decrypted memory: 2036K
+Apr 17 13:27:07 CIS106 kernel: [    0.638946] Freeing unused kernel image (initmem) memory: 3168K
+Apr 17 13:27:07 CIS106 kernel: [    0.649176] Write protecting the kernel read-only data: 32768k
+Apr 17 13:27:07 CIS106 kernel: [    0.649426] Freeing unused kernel image (text/rodata gap) memory: 2036K
+Apr 17 13:27:07 CIS106 kernel: [    0.649516] Freeing unused kernel image (rodata/data gap) memory: 996K
+Apr 17 13:27:07 CIS106 kernel: [    0.671353] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Apr 17 13:27:07 CIS106 kernel: [    0.671357] Run /init as init process
+Apr 17 13:27:07 CIS106 kernel: [    0.671358]   with arguments:
+Apr 17 13:27:07 CIS106 kernel: [    0.671359]     /init
+Apr 17 13:27:07 CIS106 kernel: [    0.671359]     splash
+Apr 17 13:27:07 CIS106 kernel: [    0.671360]   with environment:
+Apr 17 13:27:07 CIS106 kernel: [    0.671360]     HOME=/
+Apr 17 13:27:07 CIS106 kernel: [    0.671361]     TERM=linux
+Apr 17 13:27:07 CIS106 kernel: [    0.671361]     BOOT_IMAGE=/boot/vmlinuz-5.19.0-38-generic
+Apr 17 13:27:07 CIS106 kernel: [    0.715317] ACPI: video: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Apr 17 13:27:07 CIS106 kernel: [    0.715357] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input4
+Apr 17 13:27:07 CIS106 kernel: [    0.721953] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+Apr 17 13:27:07 CIS106 kernel: [    0.722369] ahci 0000:00:0d.0: version 3.0
+Apr 17 13:27:07 CIS106 kernel: [    0.723064] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+Apr 17 13:27:07 CIS106 kernel: [    0.723144] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+Apr 17 13:27:07 CIS106 kernel: [    0.723146] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+Apr 17 13:27:07 CIS106 kernel: [    0.725219] e1000: Intel(R) PRO/1000 Network Driver
+Apr 17 13:27:07 CIS106 kernel: [    0.725220] e1000: Copyright (c) 1999-2006 Intel Corporation.
+Apr 17 13:27:07 CIS106 kernel: [    0.730581] scsi host2: ahci
+Apr 17 13:27:07 CIS106 kernel: [    0.730610] ata3: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+Apr 17 13:27:07 CIS106 kernel: [    0.846316] usb 2-1: new full-speed USB device number 2 using ohci-pci
+Apr 17 13:27:07 CIS106 kernel: [    0.935819] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input5
+Apr 17 13:27:07 CIS106 kernel: [    1.044808] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Apr 17 13:27:07 CIS106 kernel: [    1.044887] ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+Apr 17 13:27:07 CIS106 kernel: [    1.044889] ata3.00: 83886080 sectors, multi 128: LBA48 NCQ (depth 32)
+Apr 17 13:27:07 CIS106 kernel: [    1.044977] ata3.00: configured for UDMA/133
+Apr 17 13:27:07 CIS106 kernel: [    1.045110] scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+Apr 17 13:27:07 CIS106 kernel: [    1.045405] sd 2:0:0:0: [sda] 83886080 512-byte logical blocks: (42.9 GB/40.0 GiB)
+Apr 17 13:27:07 CIS106 kernel: [    1.045405] sd 2:0:0:0: Attached scsi generic sg1 type 0
+Apr 17 13:27:07 CIS106 kernel: [    1.045410] sd 2:0:0:0: [sda] Write Protect is off
+Apr 17 13:27:07 CIS106 kernel: [    1.045411] sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Apr 17 13:27:07 CIS106 kernel: [    1.045423] sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Apr 17 13:27:07 CIS106 kernel: [    1.045432] sd 2:0:0:0: [sda] Preferred minimum I/O size 512 bytes
+Apr 17 13:27:07 CIS106 kernel: [    1.063738]  sda: sda1 sda2 sda3
+Apr 17 13:27:07 CIS106 kernel: [    1.063806] sd 2:0:0:0: [sda] Attached SCSI disk
+Apr 17 13:27:07 CIS106 kernel: [    1.073196] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:65:c3:43
+Apr 17 13:27:07 CIS106 kernel: [    1.073200] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+Apr 17 13:27:07 CIS106 kernel: [    1.073810] e1000 0000:00:03.0 enp0s3: renamed from eth0
+Apr 17 13:27:07 CIS106 kernel: [    1.163503] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Apr 17 13:27:07 CIS106 kernel: [    1.163508] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Apr 17 13:27:07 CIS106 kernel: [    1.163509] usb 2-1: Product: USB Tablet
+Apr 17 13:27:07 CIS106 kernel: [    1.163510] usb 2-1: Manufacturer: VirtualBox
+Apr 17 13:27:07 CIS106 kernel: [    1.169656] hid: raw HID events driver (C) Jiri Kosina
+Apr 17 13:27:07 CIS106 kernel: [    1.177770] usbcore: registered new interface driver usbhid
+Apr 17 13:27:07 CIS106 kernel: [    1.177772] usbhid: USB HID core driver
+Apr 17 13:27:07 CIS106 kernel: [    1.178905] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input6
+Apr 17 13:27:07 CIS106 kernel: [    1.179140] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Apr 17 13:27:07 CIS106 kernel: [    1.220043] EXT4-fs (sda3): mounted filesystem with ordered data mode. Quota mode: none.
+Apr 17 13:27:07 CIS106 kernel: [    1.495553] ACPI: bus type drm_connector registered
+Apr 17 13:27:07 CIS106 kernel: [    1.512056] EXT4-fs (sda3): re-mounted. Quota mode: none.
+Apr 17 13:27:07 CIS106 kernel: [    1.525875] Adding 4392956k swap on /swapfile.  Priority:-2 extents:9 across:4704252k FS
+Apr 17 13:27:07 CIS106 kernel: [    1.529402] lp: driver loaded but no devices found
+Apr 17 13:27:07 CIS106 kernel: [    1.542179] ppdev: user-space parallel port driver
+Apr 17 13:27:07 CIS106 kernel: [    1.593259] loop0: detected capacity change from 0 to 8
+Apr 17 13:27:07 CIS106 kernel: [    1.596338] loop1: detected capacity change from 0 to 129608
+Apr 17 13:27:07 CIS106 kernel: [    1.597520] loop2: detected capacity change from 0 to 129672
+Apr 17 13:27:07 CIS106 kernel: [    1.600177] loop3: detected capacity change from 0 to 491136
+Apr 17 13:27:07 CIS106 kernel: [    1.600397] loop4: detected capacity change from 0 to 149456
+Apr 17 13:27:07 CIS106 kernel: [    1.604415] loop5: detected capacity change from 0 to 149488
+Apr 17 13:27:07 CIS106 kernel: [    1.604668] loop6: detected capacity change from 0 to 491264
+Apr 17 13:27:07 CIS106 kernel: [    1.604995] loop7: detected capacity change from 0 to 709280
+Apr 17 13:27:07 CIS106 kernel: [    1.607272] loop8: detected capacity change from 0 to 943256
+Apr 17 13:27:07 CIS106 kernel: [    1.608455] loop9: detected capacity change from 0 to 187776
+Apr 17 13:27:07 CIS106 kernel: [    1.610622] loop10: detected capacity change from 0 to 716160
+Apr 17 13:27:07 CIS106 kernel: [    1.610784] loop11: detected capacity change from 0 to 94064
+Apr 17 13:27:07 CIS106 kernel: [    1.612747] loop12: detected capacity change from 0 to 102072
+Apr 17 13:27:07 CIS106 kernel: [    1.614924] loop13: detected capacity change from 0 to 102072
+Apr 17 13:27:07 CIS106 kernel: [    1.616492] loop14: detected capacity change from 0 to 608
+Apr 17 13:27:07 CIS106 kernel: [    1.618310] loop16: detected capacity change from 0 to 856
+Apr 17 13:27:07 CIS106 kernel: [    1.619293] loop15: detected capacity change from 0 to 942872
+Apr 17 13:27:07 CIS106 kernel: [    1.620618] loop17: detected capacity change from 0 to 93928
+Apr 17 13:27:07 CIS106 kernel: [    1.745872] vboxguest: host-version: 7.0.6r155176 0x8000000f
+Apr 17 13:27:07 CIS106 kernel: [    1.746340] vbg_heartbeat_init: Setting up heartbeat to trigger every 2000 milliseconds
+Apr 17 13:27:07 CIS106 kernel: [    1.769627] input: VirtualBox mouse integration as /devices/pci0000:00/0000:00:04.0/input/input7
+Apr 17 13:27:07 CIS106 kernel: [    1.770201] vboxguest: misc device minor 123, IRQ 20, I/O port d040, MMIO at 0x00000000f0400000 (size 0x0000000000400000)
+Apr 17 13:27:07 CIS106 kernel: [    1.799173] cryptd: max_cpu_qlen set to 1000
+Apr 17 13:27:07 CIS106 kernel: [    1.812000] AVX2 version of gcm_enc/dec engaged.
+Apr 17 13:27:07 CIS106 kernel: [    1.812087] AES CTR mode by8 optimization enabled
+Apr 17 13:27:07 CIS106 kernel: [    1.874997] vmwgfx 0000:00:02.0: vgaarb: deactivate vga console
+Apr 17 13:27:07 CIS106 kernel: [    1.875641] Console: switching to colour dummy device 80x25
+Apr 17 13:27:07 CIS106 kernel: [    1.876803] vmwgfx 0000:00:02.0: [drm] FIFO at 0x00000000f0000000 size is 2048 kiB
+Apr 17 13:27:07 CIS106 kernel: [    1.876811] vmwgfx 0000:00:02.0: [drm] VRAM at 0x00000000e0000000 size is 131072 kiB
+Apr 17 13:27:07 CIS106 kernel: [    1.876816] vmwgfx 0000:00:02.0: [drm] Running on SVGA version 2.
+Apr 17 13:27:07 CIS106 kernel: [    1.876822] vmwgfx 0000:00:02.0: [drm] Capabilities: rect copy, cursor, cursor bypass, cursor bypass 2, alpha cursor, 3D, extended fifo, pitchlock, irq mask, gmr, traces, gmr2, screen object 2, command buffers, gbobject, dx, 
+Apr 17 13:27:07 CIS106 kernel: [    1.876824] vmwgfx 0000:00:02.0: [drm] DMA map mode: Caching DMA mappings.
+Apr 17 13:27:07 CIS106 kernel: [    1.876867] vmwgfx 0000:00:02.0: [drm] Legacy memory limits: VRAM = 131072 kB, FIFO = 2048 kB, surface = 393216 kB
+Apr 17 13:27:07 CIS106 kernel: [    1.876868] vmwgfx 0000:00:02.0: [drm] MOB limits: max mob size = 131072 kB, max mob pages = 32768
+Apr 17 13:27:07 CIS106 kernel: [    1.876869] vmwgfx 0000:00:02.0: [drm] Max GMR ids is 8192
+Apr 17 13:27:07 CIS106 kernel: [    1.876869] vmwgfx 0000:00:02.0: [drm] Max number of GMR pages is 1048576
+Apr 17 13:27:07 CIS106 kernel: [    1.876870] vmwgfx 0000:00:02.0: [drm] Maximum display memory size is 131072 kiB
+Apr 17 13:27:07 CIS106 kernel: [    1.898537] vmwgfx 0000:00:02.0: [drm] Screen Target display unit initialized
+Apr 17 13:27:07 CIS106 kernel: [    1.898833] vmwgfx 0000:00:02.0: [drm] Fifo max 0x00200000 min 0x00001000 cap 0x00000355
+Apr 17 13:27:07 CIS106 kernel: [    1.899113] vmwgfx 0000:00:02.0: [drm] Using command buffers with DMA pool.
+Apr 17 13:27:07 CIS106 kernel: [    1.899117] vmwgfx 0000:00:02.0: [drm] Available shader model: SM4.
+Apr 17 13:27:07 CIS106 kernel: [    1.899121] [drm:vmw_host_printf [vmwgfx]] *ERROR* Failed to send host log message.
+Apr 17 13:27:07 CIS106 kernel: [    1.900160] fbcon: svgadrmfb (fb0) is primary device
+Apr 17 13:27:07 CIS106 kernel: [    1.900334] Console: switching to colour frame buffer device 100x37
+Apr 17 13:27:07 CIS106 kernel: [    1.912637] [drm] Initialized vmwgfx 2.20.0 20211206 for 0000:00:02.0 on minor 0
+Apr 17 13:27:07 CIS106 kernel: [    1.981724] intel_rapl_common: Found RAPL domain package
+Apr 17 13:27:07 CIS106 kernel: [    1.981727] intel_rapl_common: Found RAPL domain core
+Apr 17 13:27:07 CIS106 kernel: [    2.181629] audit: type=1400 audit(1681752420.192:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=510 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.194725] audit: type=1400 audit(1681752420.204:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=511 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.194988] audit: type=1400 audit(1681752420.204:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=511 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.439963] audit: type=1400 audit(1681752420.448:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=570 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.440403] audit: type=1400 audit(1681752420.448:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=570 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.440737] audit: type=1400 audit(1681752420.448:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=570 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.441332] audit: type=1400 audit(1681752420.448:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=570 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.551974] audit: type=1400 audit(1681752420.560:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=572 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    2.552351] audit: type=1400 audit(1681752420.560:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=572 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    5.275151] kauditd_printk_skb: 13 callbacks suppressed
+Apr 17 13:27:07 CIS106 kernel: [    5.275153] audit: type=1400 audit(1681752423.284:24): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=580 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    5.276193] audit: type=1400 audit(1681752423.284:25): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd" pid=580 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    5.276516] audit: type=1400 audit(1681752423.284:26): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cupsd//third_party" pid=580 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.220155] audit: type=1400 audit(1681752424.228:27): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice" pid=576 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.220855] audit: type=1400 audit(1681752424.228:28): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice//gpg" pid=576 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.563792] audit: type=1400 audit(1681752424.572:29): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine" pid=596 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.564175] audit: type=1400 audit(1681752424.572:30): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18357/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=596 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.580653] audit: type=1400 audit(1681752424.588:31): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=597 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    6.580956] audit: type=1400 audit(1681752424.588:32): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=597 comm="apparmor_parser"
+Apr 17 13:27:07 CIS106 kernel: [    7.043374] audit: type=1400 audit(1681752425.052:33): apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.firefox" pid=598 comm="apparmor_parser"
+Apr 17 13:27:08 CIS106 kernel: [   10.225885] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Apr 17 13:27:08 CIS106 kernel: [   10.226110] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Apr 17 13:27:08 CIS106 kernel: [   10.907286] loop18: detected capacity change from 0 to 8
+Apr 17 13:27:09 CIS106 kernel: [   11.182245] kauditd_printk_skb: 15 callbacks suppressed
+Apr 17 13:27:09 CIS106 kernel: [   11.182247] audit: type=1400 audit(1681752429.192:49): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=953 comm="apparmor_parser"
+Apr 17 13:27:09 CIS106 kernel: [   11.193284] audit: type=1400 audit(1681752429.204:50): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=953 comm="apparmor_parser"
+Apr 17 13:27:09 CIS106 kernel: [   11.218059] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:09 CIS106 kernel: [   11.218076] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:09 CIS106 kernel: [   11.578005] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:09 CIS106 kernel: [   11.578021] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:09 CIS106 kernel: [   11.827559] audit: type=1400 audit(1681752429.836:51): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.firefox" pid=961 comm="apparmor_parser"
+Apr 17 13:27:10 CIS106 kernel: [   12.295807] rfkill: input handler disabled
+Apr 17 13:27:10 CIS106 kernel: [   12.473465] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:10 CIS106 kernel: [   12.473482] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:10 CIS106 kernel: [   12.502390] audit: type=1400 audit(1681752430.512:52): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.snap-store" pid=983 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.224518] audit: type=1400 audit(1681752431.232:53): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.snapd-desktop-integration" pid=1118 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.234382] audit: type=1400 audit(1681752431.244:54): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.firefox.firefox" pid=1167 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.241249] audit: type=1400 audit(1681752431.252:55): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.firefox.geckodriver" pid=1168 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.244940] audit: type=1400 audit(1681752431.252:56): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.firefox.hook.configure" pid=1169 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.247161] audit: type=1400 audit(1681752431.256:57): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.firefox.hook.connect-plug-host-hunspell" pid=1170 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.254447] audit: type=1400 audit(1681752431.264:58): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.firefox.hook.disconnect-plug-host-hunspell" pid=1171 comm="apparmor_parser"
+Apr 17 13:27:11 CIS106 kernel: [   13.542482] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:11 CIS106 kernel: [   13.542520] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.262699] rfkill: input handler enabled
+Apr 17 13:27:18 CIS106 kernel: [   20.356181] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.356198] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.628239] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.628254] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.640301] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.640315] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:18 CIS106 kernel: [   20.959092] kauditd_printk_skb: 9 callbacks suppressed
+Apr 17 13:27:18 CIS106 kernel: [   20.959093] audit: type=1326 audit(1681752438.968:68): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=1519 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fc66f25da3d code=0x50000
+Apr 17 13:27:19 CIS106 kernel: [   21.236058] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:19 CIS106 kernel: [   21.236081] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:19 CIS106 kernel: [   21.582013] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:19 CIS106 kernel: [   21.582030] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:19 CIS106 kernel: [   21.903821] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:19 CIS106 kernel: [   21.903837] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:20 CIS106 kernel: [   22.240565] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:20 CIS106 kernel: [   22.240584] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:20 CIS106 kernel: [   22.975255] rfkill: input handler disabled
+Apr 17 13:27:21 CIS106 kernel: [   23.038998] audit: type=1400 audit(1681752441.048:69): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=1772 comm="snap-confine" capability=12  capname="net_admin"
+Apr 17 13:27:21 CIS106 kernel: [   23.051717] audit: type=1400 audit(1681752441.060:70): apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=1772 comm="snap-confine" capability=38  capname="perfmon"
+Apr 17 13:27:21 CIS106 kernel: [   23.447150] audit: type=1326 audit(1681752441.456:71): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=1919 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7f69ed49fa3d code=0x50000
+Apr 17 13:27:21 CIS106 kernel: [   23.455964] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:21 CIS106 kernel: [   23.455986] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:21 CIS106 kernel: [   23.688888] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:21 CIS106 kernel: [   23.688903] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:33 CIS106 kernel: [   35.015922] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:27:33 CIS106 kernel: [   35.015943] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:32:25 CIS106 kernel: [  324.251938] loop18: detected capacity change from 0 to 495408
+Apr 17 13:32:25 CIS106 kernel: [  324.508186] audit: type=1400 audit(1681752745.253:72): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine" pid=3146 comm="apparmor_parser"
+Apr 17 13:32:25 CIS106 kernel: [  324.508190] audit: type=1400 audit(1681752745.253:73): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/18596/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=3146 comm="apparmor_parser"
+Apr 17 13:32:25 CIS106 kernel: [  324.996828] audit: type=1400 audit(1681752745.745:74): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.firefox" pid=3148 comm="apparmor_parser"
+Apr 17 13:32:26 CIS106 kernel: [  325.986427] audit: type=1400 audit(1681752746.733:75): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.firefox" pid=3149 comm="apparmor_parser"
+Apr 17 13:32:27 CIS106 kernel: [  327.069226] audit: type=1400 audit(1681752747.817:76): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.geckodriver" pid=3150 comm="apparmor_parser"
+Apr 17 13:32:27 CIS106 kernel: [  327.232507] audit: type=1400 audit(1681752747.981:77): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.configure" pid=3151 comm="apparmor_parser"
+Apr 17 13:32:28 CIS106 kernel: [  327.365696] audit: type=1400 audit(1681752748.113:78): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.connect-plug-host-hunspell" pid=3152 comm="apparmor_parser"
+Apr 17 13:32:28 CIS106 kernel: [  327.508440] audit: type=1400 audit(1681752748.257:79): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.disconnect-plug-host-hunspell" pid=3153 comm="apparmor_parser"
+Apr 17 13:32:28 CIS106 kernel: [  327.653285] audit: type=1400 audit(1681752748.401:80): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.post-refresh" pid=3154 comm="apparmor_parser"
+Apr 17 13:32:29 CIS106 kernel: [  328.621409] audit: type=1400 audit(1681752749.369:81): apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.firefox" name="/var/lib/" pid=3184 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Apr 17 13:38:59 CIS106 kernel: [  719.200170] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:38:59 CIS106 kernel: [  719.200187] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:39:00 CIS106 kernel: [  719.797670] kauditd_printk_skb: 1 callbacks suppressed
+Apr 17 13:39:00 CIS106 kernel: [  719.797672] audit: type=1326 audit(1681753140.547:83): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.firefox.firefox pid=3314 comm="firefox" exe="/snap/firefox/2579/usr/lib/firefox/firefox" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fb2ff3fe73d code=0x50000
+Apr 17 13:39:01 CIS106 kernel: [  720.282763] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 13:39:01 CIS106 kernel: [  720.282780] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:10:46 CIS106 kernel: [ 2625.370589] [drm] vmwgfx: mob memory overflow. Consider increasing guest RAM and graphicsMemory.
+Apr 17 14:10:46 CIS106 kernel: [ 2625.370596] [drm:vmw_host_printf [vmwgfx]] *ERROR* Failed to send host log message.
+Apr 17 14:10:46 CIS106 kernel: [ 2625.370608] [drm] vmwgfx: increasing guest mob limits to 262144 kB.
+Apr 17 14:10:50 CIS106 kernel: [ 2629.577415] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:10:50 CIS106 kernel: [ 2629.577433] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:21:55 CIS106 kernel: [ 3294.774859] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:21:55 CIS106 kernel: [ 3294.774878] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:31:13 CIS106 kernel: [ 3852.818528] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:31:13 CIS106 kernel: [ 3852.818544] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:47:11 CIS106 kernel: [ 4810.213662] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:47:11 CIS106 kernel: [ 4810.213684] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:03 CIS106 kernel: [ 5042.975180] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:03 CIS106 kernel: [ 5042.975198] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:03 CIS106 kernel: [ 5043.071324] audit: type=1326 audit(1681757463.856:84): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.firefox.firefox pid=5856 comm="firefox" exe="/snap/firefox/2579/usr/lib/firefox/firefox" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fd9b79e573d code=0x50000
+Apr 17 14:51:04 CIS106 kernel: [ 5043.720845] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:04 CIS106 kernel: [ 5043.720862] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:10 CIS106 kernel: [ 5049.790659] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:10 CIS106 kernel: [ 5049.790674] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:57 CIS106 kernel: [ 5096.943450] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:51:57 CIS106 kernel: [ 5096.943467] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:52:12 CIS106 kernel: [ 5111.960756] audit: type=1400 audit(1681757532.745:85): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/etc/fstab" pid=5856 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Apr 17 14:52:12 CIS106 kernel: [ 5112.174334] audit: type=1107 audit(1681757532.961:86): pid=619 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.173" pid=5856 label="snap.firefox.firefox" peer_pid=6684 peer_label="unconfined"
+Apr 17 14:52:12 CIS106 kernel: [ 5112.174334]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Apr 17 14:52:12 CIS106 kernel: [ 5112.174766] audit: type=1107 audit(1681757532.961:87): pid=619 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.173" pid=5856 label="snap.firefox.firefox" peer_pid=6684 peer_label="unconfined"
+Apr 17 14:52:12 CIS106 kernel: [ 5112.174766]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Apr 17 14:52:13 CIS106 kernel: [ 5112.376799] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:52:13 CIS106 kernel: [ 5112.376815] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 14:52:19 CIS106 kernel: [ 5119.048284] audit: type=1107 audit(1681757539.833:88): pid=619 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.173" pid=5856 label="snap.firefox.firefox" peer_pid=6684 peer_label="unconfined"
+Apr 17 14:52:19 CIS106 kernel: [ 5119.048284]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Apr 17 14:53:44 CIS106 kernel: [ 5203.844903] audit: type=1107 audit(1681757624.633:89): pid=619 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.175" pid=5856 label="snap.firefox.firefox" peer_pid=6793 peer_label="unconfined"
+Apr 17 14:53:44 CIS106 kernel: [ 5203.844903]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Apr 17 14:53:44 CIS106 kernel: [ 5203.844907] audit: type=1107 audit(1681757624.633:90): pid=619 uid=102 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.175" pid=5856 label="snap.firefox.firefox" peer_pid=6793 peer_label="unconfined"
+Apr 17 14:53:44 CIS106 kernel: [ 5203.844907]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Apr 17 15:07:28 CIS106 kernel: [ 6027.416711] audit: type=1326 audit(1681758448.207:91): auid=1000 uid=1000 gid=1000 ses=3 subj=snap.firefox.firefox pid=6927 comm="firefox" exe="/snap/firefox/2579/usr/lib/firefox/firefox" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7f07109f973d code=0x50000
+Apr 17 15:07:28 CIS106 kernel: [ 6027.443793] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 15:07:28 CIS106 kernel: [ 6027.443810] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 15:07:28 CIS106 kernel: [ 6027.825628] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 15:07:28 CIS106 kernel: [ 6027.825645] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 15:10:30 CIS106 kernel: [ 6209.847003] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Apr 17 15:10:30 CIS106 kernel: [ 6209.847026] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
